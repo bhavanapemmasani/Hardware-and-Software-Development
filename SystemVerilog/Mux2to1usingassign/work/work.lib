@@ -1,0 +1,37 @@
+timestamp=1715220735863
+
+[~A]
+LastVerilogToplevel=tb_Mux2to1
+ModifyID=1
+Version=74
+design.sv_testbench.sv=0*560*1166
+
+[~MFT]
+0=5|0work.mgf|1166|0
+1=3|1work.mgf|1296|0
+3=6|3work.mgf|2078|0
+
+[$root]
+A/$root=22|||1*0
+BinL64/$root=3*0
+SLP=3*106
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|c73a565f2ade592f8ac1c68f484c92168fffa2f8c3130eb64b156b8fc5f2dc0a
+
+[Mux2to1]
+A/Mux2to1=22|../design.sv|1|1*374
+BinL64/Mux2to1=3*174
+R=../design.sv|1
+SLP=3*658
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|4f17c576570e3eb26e9775041a5ff12a26527262ddaa47cb266f3a3c4d9b973a11252d4cca2edf6dea300f279e55df59
+
+[tb_Mux2to1]
+A/tb_Mux2to1=22|../testbench.sv|1|1*1296
+BinL64/tb_Mux2to1=3*836
+R=../testbench.sv|1
+SLP=3*2078
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|d96066ba8df2e34ca7616f0ce0620e6c2409b3fa6ff0e7d800c9ea6e6ea98641948e838f158f6fc6c4d1b2cabc4e1c52
+
+[~U]
+$root=12|0*0|
+Mux2to1=12|0*182|
+tb_Mux2to1=12|0*386||0x10

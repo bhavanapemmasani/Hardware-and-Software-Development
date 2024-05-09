@@ -1,0 +1,35 @@
+$date
+Wed May  8 22:12:17 2024
+$end
+$version
+Riviera-PRO Version 2023.04.112.8911
+$end
+$timescale
+1 ns
+$end
+
+$scope module tb_Mux2to1 $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # sel $end
+$var reg 1 $ out $end
+$upscope $end
+
+$enddefinitions $end
+$dumpvars
+0!
+1"
+0#
+0$
+$end
+#20
+1#
+1$
+#50
+1!
+0"
+0#
+#80
+1#
+0$
+#100
