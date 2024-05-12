@@ -1,0 +1,37 @@
+$date
+Sun May 12 15:26:51 2024
+$end
+$version
+Riviera-PRO Version 2023.04.112.8911
+$end
+$timescale
+1 ns
+$end
+
+$scope module tb $end
+$var reg 4 ! A [3:0] $end
+$var reg 4 " B [3:0] $end
+$var reg 1 # great $end
+$var reg 1 $ equal $end
+$var reg 1 % less $end
+$upscope $end
+
+$enddefinitions $end
+$dumpvars
+b0 !
+b0 "
+0#
+1$
+0%
+$end
+#10
+b10 !
+b1000 "
+0$
+1%
+#20
+b11 !
+b1 "
+0%
+1#
+#40
