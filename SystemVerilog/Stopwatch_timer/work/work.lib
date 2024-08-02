@@ -1,0 +1,37 @@
+timestamp=1722636729818
+
+[~A]
+LastVerilogToplevel=tb_timer
+ModifyID=1
+Version=74
+design.sv_testbench.sv=0*632*1478
+
+[~MFT]
+0=5|0work.mgf|1478|0
+1=3|1work.mgf|1875|0
+3=6|3work.mgf|2638|0
+
+[$root]
+A/$root=22|||1*0
+BinL64/$root=3*0
+SLP=3*106
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|c73a565f2ade592f8ac1c68f484c92167f8e5fa2f470474af59b9e70e29d2c0d
+
+[stopwatch_timer]
+A/stopwatch_timer=22|../design.sv|1|1*374
+BinL64/stopwatch_timer=3*174
+R=../design.sv|1
+SLP=3*901
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|301b5706fbefb7b4911b4ea31dbced4f2e8f7fa2f9064721fbacb069c5055567b724e5c0be28d0b09b656aa6102bce20
+
+[tb_timer]
+A/tb_timer=22|../testbench.sv|1|1*1875
+BinL64/tb_timer=3*1368
+R=../testbench.sv|1
+SLP=3*2638
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|b7e19ae437d33284031bda69478cbbef0602192bf13219adeebae6c40f906a05f1b8c3f0ce7f488faba12d53f7f1cb6a
+
+[~U]
+$root=12|0*0|
+stopwatch_timer=12|0*182|
+tb_timer=12|0*458||0x10
