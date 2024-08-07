@@ -1,0 +1,37 @@
+timestamp=1723055298063
+
+[~A]
+LastVerilogToplevel=tb_parallel_serial_sr
+ModifyID=1
+Version=74
+design.sv_testbench.sv=0*2717*3691
+
+[~MFT]
+0=5|0work.mgf|3691|0
+1=3|1work.mgf|2145|0
+3=6|3work.mgf|3291|0
+
+[$root]
+A/$root=22|||1*0
+BinL64/$root=3*0
+SLP=3*106
+Version=2023.04.112 (Linux64)|0000004d789c0dc7310ac0200c00c0af649734e8475afc80581b68401d929af7d7e186c34f065bab9d214ea30d82ccf688065aa6646f55a62c2eac15af7c9277b969f9c07824326d801d764b2ce90712c61a1b|c73a565f2ade592f8ac1c68f484c9216f6ce22d8ed1444506aaa768afc0e4495
+
+[parallel_serial_sr]
+A/parallel_serial_sr=22|../design.sv|1|1*390
+BinL64/parallel_serial_sr=3*174
+R=../design.sv|1
+SLP=3*1261
+Version=2023.04.112 (Linux64)|0000004d789c0dc7310ac0200c00c0af649734e8475afc80581b68401d929af7d7e186c34f065bab9d214ea30d82ccf688065aa6646f55a62c2eac15af7c9277b969f9c07824326d801d764b2ce90712c61a1b|a8fdc2a595d9a7534842429ae4f49d4c4df4cfedc63a227fcabded90a6789ad75eee0ec0ff5db5983c02c7d60ae2624a
+
+[tb_parallel_serial_sr]
+A/tb_parallel_serial_sr=22|../testbench.sv|43|1*2145
+BinL64/tb_parallel_serial_sr=3*1755
+R=../testbench.sv|43
+SLP=3*3291
+Version=2023.04.112 (Linux64)|0000004d789c0dc7310ac0200c00c0af649734e8475afc80581b68401d929af7d7e186c34f065bab9d214ea30d82ccf688065aa6646f55a62c2eac15af7c9277b969f9c07824326d801d764b2ce90712c61a1b|61348e1c7ca8db0a51f3146c93c85068a57c2a9a14d4cf4a8f82c568adf11b2df8fdb880eea6b15e24a9b2ff11bc43a0
+
+[~U]
+$root=12|0*0|
+parallel_serial_sr=12|0*2214|
+tb_parallel_serial_sr=12|0*2494||0x10
