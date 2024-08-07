@@ -1,0 +1,37 @@
+timestamp=1723060065302
+
+[~A]
+LastVerilogToplevel=tb_pipo
+ModifyID=1
+Version=74
+design.sv_testbench.sv=0*2758*3588
+
+[~MFT]
+0=5|0work.mgf|3588|0
+1=3|1work.mgf|2106|0
+3=6|3work.mgf|2746|0
+
+[$root]
+A/$root=22|||1*0
+BinL64/$root=3*0
+SLP=3*106
+Version=2023.04.112 (Linux64)|0000004d789c0dc7310ac0200c00c0af649734e8475afc80581b68401d929af7d7e186c34f065bab9d214ea30d82ccf688065aa6646f55a62c2eac15af7c9277b969f9c07824326d801d764b2ce90712c61a1b|c73a565f2ade592f8ac1c68f484c9216fa8d0d15c95437a0f463ed83559ac5e9
+
+[parallel_in_parallel_out_shiftregister]
+A/parallel_in_parallel_out_shiftregister=22|../design.sv|1|1*374
+BinL64/parallel_in_parallel_out_shiftregister=3*174
+R=../design.sv|1
+SLP=3*987
+Version=2023.04.112 (Linux64)|0000004d789c0dc7310ac0200c00c0af649734e8475afc80581b68401d929af7d7e186c34f065bab9d214ea30d82ccf688065aa6646f55a62c2eac15af7c9277b969f9c07824326d801d764b2ce90712c61a1b|488ff443f50b8bcd4eb8504b87eeceaf87bc4d46f6e37ae53bb2ffe0ea7413730e52435fae65f0bd7a5b91e5d8d5cdfb0108928bf4e10ba00ffd2cf0f98edf9c
+
+[tb_pipo]
+A/tb_pipo=22|../testbench.sv|1|1*2106
+BinL64/tb_pipo=3*1366
+R=../testbench.sv|1
+SLP=3*2746
+Version=2023.04.112 (Linux64)|0000004d789c0dc7310ac0200c00c0af649734e8475afc80581b68401d929af7d7e186c34f065bab9d214ea30d82ccf688065aa6646f55a62c2eac15af7c9277b969f9c07824326d801d764b2ce90712c61a1b|0d518ed56c92e18b18802b598bf8ded926527262ddaa47cb266f3a3c4d9b973ab49a049b2a1ebee595dab9ee25931d97
+
+[~U]
+$root=12|0*0|
+parallel_in_parallel_out_shiftregister=12|0*2230|
+tb_pipo=12|0*2537||0x10
