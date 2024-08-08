@@ -1,0 +1,24 @@
+Riviera-PRO 2023.04.112.8911(Linux64) 2024-08-08 15:50:18
+
+Elaboration top modules:
+Verilog Module                tb_clockdivider
+
+
+-------------------------------------------------------------------------------------------
+Verilog Module              | Library | Info | Compiler Version      | Compilation Options
+-------------------------------------------------------------------------------------------
+tb_clockdivider             | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+divide_byevens_clockdivider | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------
+Library                     | Comment
+-------------------------------------------------------------------------------------------
+work                        | None
+-------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim +access+r
+
+
+The performance of simulation is reduced. Version EDU Edition
