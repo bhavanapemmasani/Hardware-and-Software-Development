@@ -156,7 +156,7 @@ class environment;
     msmbx=new();
     mbxref=new();
     gen=new(gdmbx, mbxref);
-    sco=new(msmbx, msmbx);
+    sco=new(msmbx, mbxref);
     mon=new(msmbx);
     drv=new(gdmbx);
     this.dif=dif;
