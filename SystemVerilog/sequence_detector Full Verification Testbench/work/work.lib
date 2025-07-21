@@ -1,0 +1,133 @@
+timestamp=1753056896620
+
+[~A]
+LastVerilogToplevel=tb
+ModifyID=1
+Version=74
+design.sv_testbench.sv=0*9420*11739
+
+[~MFT]
+0=22|0work.mgf|11739|0
+1=13|1work.mgf|68108|0
+3=26|3work.mgf|76052|0
+
+[$root]
+A/$root=22|||1*0
+BinL64/$root=3*0
+SLP=3*106
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|c73a565f2ade592f8ac1c68f484c92166d7c5a0d3ca8fc50e3337cf85b07ee5b
+
+[\std::mailbox#(bit) \]
+A/\std::mailbox#(bit) \=22|||1*22864
+AICT=448782565472768
+BinL64/\std::mailbox#(bit) \=3*25147
+CLI=0*3366
+SLP=3*26935
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|1e719b6ecd2368499b5e157e46e8cd70eb5313728e9bbe782b966a175d96c266047edd4bf99a1e29fc5786011b4c05b9
+
+[\std::mailbox#(transaction) \]
+A/\std::mailbox#(transaction) \=22|||1*11054
+AICT=448782565472000
+BinL64/\std::mailbox#(transaction) \=3*12233
+CLI=0*1888
+SLP=3*14044
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|1e719b6ecd2368499b5e157e46e8cd700c31c31c31c4a3840d1d4de4df34dafee17464f1a94737b4bd0b2895bf24c498146174ffe3be5cb4a0694265bdf55771
+
+[driver]
+A/driver=22|../testbench.sv|45|1*26461
+AICT=448782565472512
+BinL64/driver=3*28115
+CLI=0*4411
+R=../testbench.sv|45
+SLP=3*32851
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|32a8809e0c82d5e52151c5a0d1b53825338f503358f01f80eca07008bd6461fb
+
+[environment]
+A/environment=22|../testbench.sv|175|1*58702
+AICT=448782565474304
+BinL64/environment=3*64484
+CLI=0*8736
+R=../testbench.sv|175
+SLP=3*69415
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|f86a66fa2f5cdf242cee6b26edbbfa260bdabb96e9080c0d7927e9544455965334c372a81daa484195b335390c3cb3a9
+
+[generator]
+A/generator=22|../testbench.sv|19|1*14839
+AICT=448782565471488
+BinL64/generator=3*15298
+CLI=0*2916
+R=../testbench.sv|19
+SLP=3*20414
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|868a022443c89e9f5ff3df3152251b4d1393fddf47876bc361e7a33e2c7578ef784e477733fc40f88926348aefc1b202
+
+[monitor]
+A/monitor=22|../testbench.sv|82|1*34129
+AICT=448782565473280
+BinL64/monitor=3*37302
+CLI=0*5496
+R=../testbench.sv|82
+SLP=3*41734
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|95ff40020058ee65c420aa5e779914f826527262ddaa47cb266f3a3c4d9b973a6304ca6649d7bcfc92dd93e86999c721
+
+[scoreboard]
+A/scoreboard=22|../testbench.sv|112|1*41912
+AICT=448782565473792
+BinL64/scoreboard=3*46223
+CLI=0*6541
+R=../testbench.sv|112
+SLP=3*50357
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|cb8490c56fdb537d2557a00a58b17e11d8626a3683e7935cfb3d638038a680415b62d3fff313363abfe4058450ea4dfc
+
+[sequence_detector]
+A/sequence_detector=22|../design.sv|1|1*374
+BinL64/sequence_detector=3*174
+R=../design.sv|1
+SLP=3*1048
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|72d82e0c21dab7d6b52655a67a4b83f6bdd00f2a81e2a9c882746499824109992c0bef040541dbe1f9d8e46185fc5951
+
+[sequence_if]
+A/sequence_if=22|../design.sv|55|1*1801
+BinL64/sequence_if=3*1845
+R=../design.sv|55
+SLP=3*2059
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|0e31dfd388cb9553cdfc95064d3adf573bf94afa6e27d813d5924af4964b315b5d0c74c568767bb75970dcb07404c94e
+
+[tb]
+A/tb=22|../testbench.sv|219|1*68108
+BinL64/tb=3*75164
+R=../testbench.sv|219
+SLP=3*76052
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|8db8692708dc0985d408d2497dbc95faa74ba534807c0df3d34bac967b5ba96d
+
+[test]
+A/test=22|../testbench.sv|142|1*49304
+AICT=448782565474048
+BinL64/test=3*54520
+CLI=0*7561
+R=../testbench.sv|142
+SLP=3*59560
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|e1f76c805e2c0a9a3d36a8be8882f206d6c5297dcd775e8ebd179fc45c8f7264
+
+[transaction]
+A/transaction=22|../testbench.sv|2|1*3079
+AICT=448782565470208
+BinL64/transaction=3*2140
+CLI=0*1474
+R=../testbench.sv|2
+SLP=3*6956
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|e7c58dcfddb8de4c8440dd51a2d497d1fcb4642d0ac36a420143c757ad4eab6a5d0c74c568767bb75970dcb07404c94e
+
+[~U]
+$root=12|0*0|
+\std::mailbox#(bit) \=12|||0x10030000
+\std::mailbox#(transaction) \=12|||0x10030000
+driver=12|0*3762||0x30000
+environment=12|0*8042||0x30000
+generator=12|0*2296||0x30000
+monitor=12|0*4875||0x30000
+scoreboard=12|0*5922||0x30000
+sequence_detector=12|0*326|
+sequence_if=12|0*606||0x80000
+tb=12|0*9242||0x10
+test=12|0*6974||0x30000
+transaction=12|0*884||0x30000
